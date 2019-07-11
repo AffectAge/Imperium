@@ -1,0 +1,23 @@
+[
+   {
+    "enabled": true,
+    "state": {
+      "name": "contenttweaker:copper_ore"
+    },
+	"dimensionFilter": "whitelist",
+    "dimensionSelector": "type",
+    "dimension": [ "overworld", "miningworld" ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+	"heightMin": 2,
+    "heightMax": 4,
+    "widthMin": 5,
+    "widthMax": 7,
+    "countMin": 12,
+    "countMax": 20,
+    "yieldMin": 340,
+    "yieldMax": 425,
+	"extractionCooldownScale": 1
+  }
+]
