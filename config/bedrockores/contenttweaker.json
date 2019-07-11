@@ -11,7 +11,7 @@
     "biomeSelector": "id",
     "biome": [ "*" ],
 	"heightMin": 1,
-    "heightMax": 1,
+    "heightMax": 2,
     "widthMin": 5,
     "widthMax": 7,
     "countMin": 12,
