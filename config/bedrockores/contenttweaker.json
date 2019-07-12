@@ -10,6 +10,7 @@
     "biomeFilter": "whitelist",
     "biomeSelector": "id",
     "biome": [ "*" ],
+	"weight": 10,
 	"heightMin": 1,
     "heightMax": 2,
     "widthMin": 5,
