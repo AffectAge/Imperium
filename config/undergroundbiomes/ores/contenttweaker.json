@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "contenttweaker:copper_ore",
+    "meta": -1,
+    "overlay": "imperium:undegroundbiomes/copper_ore.png",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]

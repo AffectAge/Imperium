@@ -10,15 +10,37 @@
     "biomeFilter": "whitelist",
     "biomeSelector": "id",
     "biome": [ "*" ],
-	"weight": 10,
+	"weight": 300,
 	"heightMin": 1,
     "heightMax": 2,
     "widthMin": 5,
     "widthMax": 7,
-    "countMin": 12,
-    "countMax": 20,
-    "yieldMin": 340,
-    "yieldMax": 425,
+    "countMin": 1,
+    "countMax": 2,
+    "yieldMin": 1000,
+    "yieldMax": 10000,
+	"extractionCooldownScale": 1
+  },
+  {
+    "enabled": true,
+    "state": {
+      "name": "contenttweaker:tin_ore"
+    },
+	"dimensionFilter": "whitelist",
+    "dimensionSelector": "type",
+    "dimension": [ "overworld", "miningworld" ],
+    "biomeFilter": "whitelist",
+    "biomeSelector": "id",
+    "biome": [ "*" ],
+	"weight": 100,
+	"heightMin": 1,
+    "heightMax": 2,
+    "widthMin": 5,
+    "widthMax": 7,
+    "countMin": 1,
+    "countMax": 2,
+    "yieldMin": 1000,
+    "yieldMax": 8000,
 	"extractionCooldownScale": 1
   }
 ]

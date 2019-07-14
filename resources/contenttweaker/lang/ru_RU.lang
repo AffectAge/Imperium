@@ -6,11 +6,16 @@ tile.contenttweaker.coal_ore.name=Каменный уголь
 tile.contenttweaker.emerald_ore.name=Емеральдовая руда
 tile.contenttweaker.gold_ore.name=Золотая руда
 tile.contenttweaker.quartz_ore.name=Кварцевая руда
-tile.contenttweaker.diamond_ore.name=Диамантовая руда
+tile.contenttweaker.diamond_ore.name=Алмазная руда
 tile.contenttweaker.glowstone_ore.name=Светопыльная руда
 tile.contenttweaker.redstone_ore.name=Красная руда
 tile.contenttweaker.dark_quartz_ore.name=Темная кварцевая руда
+tile.contenttweaker.lapis_ore.name=Лазуритовая руда
+
+// Название вещей
+
+item.contenttweaker.iron_ingpt.name=Железный слиток
 
 // Название жидкостей
 
-fluid.contenttweaker.liquid_copper.name=Жидкая медь
+fluid.liquid_copper=Жидкая медь

@@ -95,7 +95,7 @@ lapisOre.register();
 
 var glowstoneOre = VanillaFactory.createBlock("glowstone_ore", <blockmaterial:rock>);
 glowstoneOre.setLightOpacity(0);
-glowstoneOre.setLightValue(0);
+glowstoneOre.setLightValue(15);
 glowstoneOre.setBlockHardness(3.0);
 glowstoneOre.setBlockResistance(10.0);
 glowstoneOre.setToolClass("pickaxe");
