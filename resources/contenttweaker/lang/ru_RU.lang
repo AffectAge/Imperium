@@ -19,3 +19,6 @@ item.contenttweaker.iron_ingpt.name=Железный слиток
 // Название жидкостей
 
 fluid.liquid_copper=Жидкая медь
+fluid.liquid_tin=Жидкое олово
+fluid.liquid_iron=Жидкое железо
+fluid.liquid_gold=Жидкое золото
